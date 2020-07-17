@@ -1,15 +1,22 @@
 #clock img {
-
+    
+    position: absolute;
+    
 }
 
 #hour {
-
+   
+z-index: 2;
 }
 
 #minute {
-
+    
+z-index: 1;
 }
 
 #second {
+    
+    z-index: 3;
 
 }
+
